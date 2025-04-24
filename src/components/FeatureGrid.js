@@ -19,11 +19,11 @@ function FeatureGrid() {
       title: 'Cultural Context Preservation',
       description: 'Our model understands cultural nuances and idioms specific to Cameroonian languages.'
     },
-    {
-      icon: '🔊',
-      title: 'Text-to-Speech',
-      description: 'Listen to correct pronunciations in Bafia and Fulfulde to improve language learning.'
-    }
+    // {
+    //   icon: '🔊',
+    //   title: 'Text-to-Speech',
+    //   description: 'Listen to correct pronunciations in Bafia and Fulfulde to improve language learning.'
+    // }
   ];
   
   return (

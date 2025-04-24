@@ -6,6 +6,7 @@ import TranslationContainer from './components/TranslationContainer';
 import FeatureGrid from './components/FeatureGrid';
 import Footer from './components/Footer';
 import About from './components/About';
+import Contact from './components/Contact';
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
             </>
           } />
           <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
       </div>
     </BrowserRouter>
