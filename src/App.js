@@ -7,6 +7,7 @@ import FeatureGrid from './components/FeatureGrid';
 import Footer from './components/Footer';
 import About from './components/About';
 import Contact from './components/Contact';
+import Resources from './components/Resources';
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
           } />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/resources" element={<Resources />} />
         </Routes>
       </div>
     </BrowserRouter>

@@ -36,6 +36,8 @@
   
   /* Contact Information */
   .contact-info {
+    display: flex;
+    flex-direction: column;
     flex: 1;
     min-width: 300px;
   }
@@ -77,12 +79,13 @@
   
   .social-links {
     display: flex;
-    gap: 1rem;
+    gap: 3rem;
     margin-top: 2rem;
   }
   
   .social-links a {
     text-decoration: none;
+    font-size: 2rem
   }
   
   .social-icon {

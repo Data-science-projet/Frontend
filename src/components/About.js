@@ -110,22 +110,22 @@ function About() {
             <div className="team-container">
               <div className="team-member">
                 <div className="member-avatar"></div>
-                <h3>Dr. [Principal Investigator]</h3>
+                <h3>Prof. Dr. Philippe Tamla</h3>
                 <p>Lead Researcher, NLP Specialist</p>
               </div>
               <div className="team-member">
                 <div className="member-avatar"></div>
-                <h3>[Team Member]</h3>
+                <h3>Fred Mike</h3>
                 <p>Data Scientist, Model Development</p>
               </div>
               <div className="team-member">
                 <div className="member-avatar"></div>
-                <h3>[Team Member]</h3>
+                <h3>Kengne Mbou Brice Junior</h3>
                 <p>Linguistic Expert, Bafia Language</p>
               </div>
               <div className="team-member">
                 <div className="member-avatar"></div>
-                <h3>[Team Member]</h3>
+                <h3>Guiddel</h3>
                 <p>Linguistic Expert, Fulfulde (Adamawa)</p>
               </div>
             </div>

@@ -48,7 +48,7 @@ function TranslationBoxes({ sourceText, translatedText, setSourceText, setTransl
         ></textarea>
       </div>
       <div className='test'>
-        <p>Disclaimer: This AI-powered tool is provided solely for intertainment and creative purposes and is not guaranteed to be accurate. For critical needs, please consults professional translators. </p>
+        {/* <p>Disclaimer: This AI-powered tool is provided solely for intertainment and creative purposes and is not guaranteed to be accurate. For critical needs, please consults professional translators. </p> */}
       </div>
     </div>
   );
