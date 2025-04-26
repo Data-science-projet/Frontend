@@ -15,7 +15,7 @@ function Header() {
       <nav className="nav">
         <div className="logo-container">
           <div className="logo">CT</div>
-          <h2>CamTranslate</h2>
+          <h2>MboaTranslate</h2>
         </div>
         
         {/* Desktop Navigation */}
